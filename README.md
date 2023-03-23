@@ -1,4 +1,4 @@
 Проект Fast Company. Для запуска необходимо ввести команды:
 
-cd server => npm i => npm run serve
-cd client => npm i => npm start
+1) cd server => npm i => npm run serve
+2) cd client => npm i => npm start
